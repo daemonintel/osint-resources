@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/daemonintel/osint-resources/main/assets/pngwing.com.png" width="300">
+</p>
+
 # Recursos OSINT
 
 > **Finalidade e uso responsável**  
