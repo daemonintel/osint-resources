@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/daemonintel/osint-resources/main/assets/pngwing.com.png" width="300">
+  <img src="https://raw.githubusercontent.com/daemonintel/osint-resources/main/assets/pngwing.com.png" width="500">
 </p>
 
 # Recursos OSINT
