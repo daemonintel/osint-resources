@@ -1,8 +1,12 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/daemonintel/osint-resources/main/assets/pngwing.com.png" width="500">
-</p>
-
 # Recursos OSINT
+<p align="center">
+  <img src="https://img.shields.io/github/license/daemonintel/osint-resources">
+  <img src="https://img.shields.io/github/contributors/daemonintel/osint-resources">
+  <img src="https://img.shields.io/github/issues/daemonintel/osint-resources">
+  <img src="https://img.shields.io/github/discussions/daemonintel/osint-resources">
+  <img src="https://img.shields.io/github/forks/daemonintel/osint-resources">
+  <img src="https://img.shields.io/github/stars/daemonintel/osint-resources">
+</p>
 
 > **Finalidade e uso responsável**  
 > Este material foi organizado para estudo, investigação digital legítima, pesquisa, jornalismo, due diligence, threat intelligence e outras finalidades lícitas. O uso deve respeitar a **LGPD**, termos de serviço, legislação aplicável, escopo autorizado e princípios de necessidade, proporcionalidade e minimização de dados.
