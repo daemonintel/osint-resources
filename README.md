@@ -256,7 +256,7 @@ Todos aqui têm a função de servir como análise de links, relações e grafos
 
 - [Bellingcat](https://www.bellingcat.com/category/resources/) - Bellingcat oferece recursos e metodologias para diversos casos reais de OSINT.
 - [Resource-1](https://osintteam.blog/leaks-and-breaches-for-osint-a7e3eb6bb56f) - Panorama geral de como encontrar vazamentos e violações para OSINT, guias e ferramentas úteis.
-- [Resource-2](https://www.osint.industries/project/know-your-enemy-how-osint-collaboration-can-profile-a-predator) - Caso de uso prática de como OSINT pode ser usado para traçar o perfil de um predador
+- [Resource-2](https://www.osint.industries/project/know-your-enemy-how-osint-collaboration-can-profile-a-predator) - Caso prático de como OSINT pode ser usado para traçar o perfil de um predador
 - [Resource-3](https://www.secjuice.com/use-osint-to-investigate-a-phishing-scam/) - Como investigar campanhas de phishing usando OSINT. 
 - [OSINT-Brazuca](https://github.com/osintbrazuca/osint-brazuca/) - Projeto extremamente útil que agrega fontes de dados públicos, métodos e ferramentas para OSINT no contexto do Brasil, deem uma força lá!
 
