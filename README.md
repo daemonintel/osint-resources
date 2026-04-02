@@ -264,10 +264,6 @@ Todos aqui têm a função de servir como análise de links, relações e grafos
 
 ## Notas práticas de uso
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/daemonintel/osint-resources/main/assets/ILoveIMG.png" width="150">
-</p>
-
 1. **Correlacione, não confie cegamente.**  
    Username, e-mail, celular e domínio raramente valem isolados. O valor aparece quando você cruza dados.
 
