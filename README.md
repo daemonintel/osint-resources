@@ -66,6 +66,7 @@
 - [usersearch](https://www.usersearch.com/) — busca unificada poderosa, não limitada apenas a usernames.
 - [blackbird](https://github.com/p1ngul1n0/blackbird) — busca em cerca de 600 sites com abordagem prática e objetiva.
 - [tookie-osint](https://github.com/Alfredredbird/tookie-osint) — busca em pelo menos 600 sites, estimativamente; útil como complemento de cobertura.
+- [Sherlock](https://github.com/sherlock-project/sherlock/) - busca em 400 sites.
 
 ---
 
