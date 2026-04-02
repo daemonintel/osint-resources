@@ -1,6 +1,10 @@
 # Recursos OSINT
 
 <p align="center">
+  <small>OSINT (Open-source intelligence)</small>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/github/license/daemonintel/osint-resources">
   <img src="https://img.shields.io/github/contributors/daemonintel/osint-resources">
   <img src="https://img.shields.io/github/issues/daemonintel/osint-resources">
