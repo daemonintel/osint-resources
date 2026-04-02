@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/daemonintel/osint-resources/main/assets/ILoveIMG.png" width="400">
 </p>
+
 <p align="center">
   <small>OSINT (Open-source intelligence)</small>
 </p>
@@ -13,6 +14,11 @@
   <img src="https://img.shields.io/github/forks/daemonintel/osint-resources">
   <img src="https://img.shields.io/github/stars/daemonintel/osint-resources">
 </p>
+
+## Navegação:
+🔀 [Fluxogramas](FLUXOGRAMAS.md) | 
+📚 [Recomendações](RECOMENDAÇÕES.md) | 
+🤝 [Contribuições](CONTRIBUTING.md)
 
 # Recursos OSINT
 
