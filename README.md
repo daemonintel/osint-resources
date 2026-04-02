@@ -84,7 +84,7 @@
 - [yesitsme](https://github.com/0x0be/yesitsme) — tenta encontrar informações de usuários do Instagram por username ou e-mail.
 - [zehef](https://github.com/N0rz3/Zehef) — extrai informações públicas associadas a um e-mail.
 - [GHunt](https://github.com/mxrch/ghunt) — versão open source no estilo do OSINT Industries, focada em pivoting em ecossistema Google.
-- [Holehe](https://github.com/megadose/holehe) - verifica se e-mail está registrado em serviços listados na ferramenta.
+- [Holehe](https://github.com/megadose/holehe) — verifica se e-mail está registrado em serviços listados na ferramenta.
 - [email2phonenumber](https://github.com/martinvigo/email2phonenumber) — faz scraping e força bruta em fontes abertas para tentar obter possível número de celular a partir
 
 ---
@@ -205,7 +205,7 @@
 - [EXIF Viewer Pro](https://chromewebstore.google.com/detail/exif-viewer-pro/mmbhfeiddhndihdjeganjggkmjapkffm) — acesso rápido a dados EXIF de imagem/arquivo diretamente pela extensão.
 - [E-mail Extrator](https://chromewebstore.google.com/detail/email-extract-email-extra/ejecpjcajdpbjbmlcojcohgenjngflac) — extrai e-mails de sites que você visita.
 - [WayBack Machine](https://chromewebstore.google.com/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak) — acessa sites arquivados a partir da navegação e da própria extensão.
-- [Vortimo](https://chromewebstore.google.com/detail/vortimo-osint-tool/mnakbpdnkedaegeiaoakkjafhoidklnf) - marque/registre páginas, armazene capturas de tela, extraia e enriqueça entidades. Encontra texto em todas as páginas e o destaca.
+- [Vortimo](https://chromewebstore.google.com/detail/vortimo-osint-tool/mnakbpdnkedaegeiaoakkjafhoidklnf) — marque/registre páginas, armazene capturas de tela, extraia e enriqueça entidades. Encontra texto em todas as páginas e o destaca.
 
 ---
 
@@ -238,7 +238,7 @@ Todos aqui têm a função de servir como análise de links, relações e grafos
 - [Infooze](https://github.com/devxprite/infoooze/) — consulta usernames, IPs, domínios, e-mails, metadados e muito mais.
 - [Sherlockeye](https://app.sherlockeye.io/) — consulta e-mail, telefone, username, domínio, IP, CNPJ e CPF com buscas aprofundadas.
 - [X-OSINT](https://github.com/TermuxHackz/X-osint/) — consulta IP, e-mail, domínios, portas, hosts, exploits, metadados e mais.
-- [Toutatis](https://github.com/megadose/toutatis) - consulta celular, e-mails, usuários do instagram e muito mais.
+- [Toutatis](https://github.com/megadose/toutatis) — consulta celular, e-mails, usuários do instagram e muito mais.
 
 ---
 
