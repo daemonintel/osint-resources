@@ -1,4 +1,6 @@
-# Recursos OSINT
+<p align="center">
+  <img src="https://raw.githubusercontent.com/daemonintel/osint-resources/main/assets/ILoveIMG.png" width="400">
+</p>
 
 <p align="center">
   <small>OSINT (Open-source intelligence)</small>
@@ -12,6 +14,8 @@
   <img src="https://img.shields.io/github/forks/daemonintel/osint-resources">
   <img src="https://img.shields.io/github/stars/daemonintel/osint-resources">
 </p>
+
+# Recursos OSINT
 
 > **Finalidade e uso responsável**  
 > Este material foi organizado para estudo, investigação digital legítima, pesquisa, jornalismo, due diligence, threat intelligence e outras finalidades lícitas. O uso deve respeitar a **LGPD**, termos de serviço, legislação aplicável, escopo autorizado e princípios de necessidade, proporcionalidade e minimização de dados.
