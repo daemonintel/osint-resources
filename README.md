@@ -84,14 +84,14 @@
 - [yesitsme](https://github.com/0x0be/yesitsme) — tenta encontrar informações de usuários do Instagram por username ou e-mail.
 - [zehef](https://github.com/N0rz3/Zehef) — extrai informações públicas associadas a um e-mail.
 - [GHunt](https://github.com/mxrch/ghunt) — versão open source no estilo do OSINT Industries, focada em pivoting em ecossistema Google.
-- [Holehe](https://github.com/megadose/holehe) - verifica se e-mail está registrado em serviços listados na ferramenta. 
+- [Holehe](https://github.com/megadose/holehe) - verifica se e-mail está registrado em serviços listados na ferramenta.
+- [email2phonenumber](https://github.com/martinvigo/email2phonenumber) — faz scraping e força bruta em fontes abertas para tentar obter possível número de celular a partir
 
 ---
 
 ## Celular
 
 - [Truecaller](https://www.truecaller.com/) — serviço global de reconhecimento de números; útil para identificação e contexto básico.
-- [email2phonenumber](https://github.com/martinvigo/email2phonenumber) — faz scraping e força bruta em fontes abertas para tentar obter possível número de celular a partir de um e-mail.
 - [WhatsApp-OSINT](https://github.com/kinghacker0/WhatsApp-OSINT) — recupera fotos de perfil, faz análises profundas, coleta informações e reúne outros sinais úteis do WhatsApp.
 - [NumVerify](https://numverify.com/) — API JSON para validação e consulta de números de telefone globais (freemium).
 - [phoneinfoga](https://github.com/sundowndev/phoneinfoga) — busca automatizada em fontes públicas; clássico para triagem de números, quando ainda houver utilidade no cenário atual.
