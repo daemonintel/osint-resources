@@ -205,6 +205,7 @@
 - [EXIF Viewer Pro](https://chromewebstore.google.com/detail/exif-viewer-pro/mmbhfeiddhndihdjeganjggkmjapkffm) — acesso rápido a dados EXIF de imagem/arquivo diretamente pela extensão.
 - [E-mail Extrator](https://chromewebstore.google.com/detail/email-extract-email-extra/ejecpjcajdpbjbmlcojcohgenjngflac) — extrai e-mails de sites que você visita.
 - [WayBack Machine](https://chromewebstore.google.com/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak) — acessa sites arquivados a partir da navegação e da própria extensão.
+- [Vortimo](https://chromewebstore.google.com/detail/vortimo-osint-tool/mnakbpdnkedaegeiaoakkjafhoidklnf) - marque/registre páginas, armazene capturas de tela, extraia e enriqueça entidades. Encontra texto em todas as páginas e o destaca.
 
 ---
 
