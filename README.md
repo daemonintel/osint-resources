@@ -2,6 +2,8 @@
   <img src="https://raw.githubusercontent.com/daemonintel/osint-resources/main/assets/ILoveIMG.png" width="400">
 </p>
 
+---
+
 <p align="center">
   <small>OSINT (Open-source intelligence)</small>
 </p>
