@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/daemonintel/osint-resources/main/assets/ILoveIMG.png" width="400">
 </p>
 
----
+<hr style="border: none; border-top: 1px solid #30363d;">
 
 <p align="center">
   <small>OSINT (Open-source intelligence)</small>
