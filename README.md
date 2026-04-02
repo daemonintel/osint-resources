@@ -84,6 +84,7 @@
 - [yesitsme](https://github.com/0x0be/yesitsme) — tenta encontrar informações de usuários do Instagram por username ou e-mail.
 - [zehef](https://github.com/N0rz3/Zehef) — extrai informações públicas associadas a um e-mail.
 - [GHunt](https://github.com/mxrch/ghunt) — versão open source no estilo do OSINT Industries, focada em pivoting em ecossistema Google.
+- [Holehe](https://github.com/megadose/holehe) - verifica se e-mail está registrado em serviços listados na ferramenta. 
 
 ---
 
@@ -236,6 +237,7 @@ Todos aqui têm a função de servir como análise de links, relações e grafos
 - [Infooze](https://github.com/devxprite/infoooze/) — consulta usernames, IPs, domínios, e-mails, metadados e muito mais.
 - [Sherlockeye](https://app.sherlockeye.io/) — consulta e-mail, telefone, username, domínio, IP, CNPJ e CPF com buscas aprofundadas.
 - [X-OSINT](https://github.com/TermuxHackz/X-osint/) — consulta IP, e-mail, domínios, portas, hosts, exploits, metadados e mais.
+- [Toutatis](https://github.com/megadose/toutatis) - consulta celular, e-mails, usuários do instagram e muito mais.
 
 ---
 
