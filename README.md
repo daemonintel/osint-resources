@@ -20,7 +20,7 @@
 <p align="center" style="font-size: 13px; color: #8b949e;">
   <strong>Navegação:</strong>
   <a href="FLUXOGRAMAS.md">🔀 Fluxogramas</a> |
-  <a href="RECOMENDAÇÕES.md">📚 Recomendações</a> |
+  <a href="RECURSOS.md">📚 Recursos</a> |
   <a href="CONTRIBUTING.md">🤝 Contribuições</a>
 </p>
 
