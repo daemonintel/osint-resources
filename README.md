@@ -265,7 +265,7 @@ Todos aqui têm a função de servir como análise de links, relações e grafos
 ## Notas práticas de uso
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/daemonintel/osint-resources/main/assets/ILoveIMG.png" width="50">
+  <img src="https://raw.githubusercontent.com/daemonintel/osint-resources/main/assets/ILoveIMG.png" width="100">
 </p>
 
 1. **Correlacione, não confie cegamente.**  
