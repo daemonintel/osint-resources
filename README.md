@@ -5,7 +5,7 @@
 <hr style="border: none; height: 1px; background-color: #30363d; opacity: 0.5; margin: 24px 0;">
 
 <p align="center">
-  <small>OPSEC (Operations Security)</small>
+  <small>OSINT (Open-source intelligence)</small>
 </p>
 
 <p align="center">
