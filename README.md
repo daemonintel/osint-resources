@@ -85,7 +85,7 @@
 - [zehef](https://github.com/N0rz3/Zehef) — extrai informações públicas associadas a um e-mail.
 - [GHunt](https://github.com/mxrch/ghunt) — versão open source no estilo do OSINT Industries, focada em pivoting em ecossistema Google.
 - [Holehe](https://github.com/megadose/holehe) — verifica se e-mail está registrado em serviços listados na ferramenta.
-- [email2phonenumber](https://github.com/martinvigo/email2phonenumber) — faz scraping e força bruta em fontes abertas para tentar obter possível número de celular a partir
+- [email2phonenumber](https://github.com/martinvigo/email2phonenumber) — faz scraping e força bruta em fontes abertas para tentar obter possível número de celular a partir de um e-mail.
 
 ---
 
