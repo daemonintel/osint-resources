@@ -265,6 +265,8 @@ Todos aqui têm a função de servir como análise de links, relações e grafos
 - [Resource-3](https://www.secjuice.com/use-osint-to-investigate-a-phishing-scam/) - Como investigar campanhas de phishing usando OSINT. 
 - [OSINT-Brazuca](https://github.com/osintbrazuca/osint-brazuca/) - Projeto extremamente útil que agrega fontes de dados públicos, métodos e ferramentas para OSINT no contexto do Brasil, deem uma força lá!
 
+[OSINT Radar](https://osintradar.com/) - Diretório online que reúne e organiza ferramentas, fluxos de trabalho e recursos voltados para OSINT. Eficiente e organizado. 
+
 ---
 
 ## Notas práticas de uso
